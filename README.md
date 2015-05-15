@@ -1,5 +1,6 @@
 # nwisnfie2
 [![Travis-CI Build Status](https://travis-ci.org/Kevin-M-Smith/nwisnfie2.svg?branch=master)](https://travis-ci.org/Kevin-M-Smith/nwisnfie2)
+[![Coverage Status](https://coveralls.io/repos/Kevin-M-Smith/nwisnfie2/badge.svg)](https://coveralls.io/r/Kevin-M-Smith/nwisnfie2)
 ```
    ___       __  ___       __        __   ___                                        
   |__   /\  |__)  |  |__| /  ` |  | |__) |__                                         

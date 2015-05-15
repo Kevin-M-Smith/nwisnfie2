@@ -8,6 +8,9 @@ env:
  global:
    - CRAN: http://cran.rstudio.com
 
+r_github_packages:
+  - jimhester/covr
+
 notifications:
   email:
     on_success: change
@@ -18,3 +21,6 @@ addons:
 
 before_script:
   - psql -c 'create database travis_ci_test;' -U postgres
+
+after_success:
+  - Rscript -e 'library(covr);codecov()'
