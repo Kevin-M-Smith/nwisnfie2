@@ -1,0 +1,9 @@
+Package: nwisnfie
+Type: Package
+Title: NWIS Observations for NFIE
+Version: 0.0.1
+Date: 2015-05-15
+Author: Kevin-M-Smith (https://github.com/kevin-m-smith)
+Maintainer: Kevin Smith <Kevin.Smith@tufts.edu>
+Description: Facilitates data harvest from USGS National Water Information System (NWIS) and subsequent publication of data in NetCDF format.
+License: GPL (>= 2)
