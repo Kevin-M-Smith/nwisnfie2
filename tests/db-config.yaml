@@ -1,0 +1,11 @@
+db : 
+ host : localhost
+ port : 5432
+ name : travis_ci_test
+ user : postgres
+ pass : ""
+
+logging:
+ level : DEBUG
+ time.stamp.format : "[%Y-%m-%d %H:%M:%S]"
+ file : NULL
