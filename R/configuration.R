@@ -1,3 +1,12 @@
+# Documents the Configuration File
+#' Configuration File
+#' 
+#' This package uses a configuration file to manage basic operational details. It is written in YAML syntax.
+#' 
+#' @references For information on the YAML specification, see \url{http://www.yaml.org/spec/1.2/spec.html}.
+#' @name Configuration File
+NULL
+
 #' Parses configuration file and returns a \code{config} object. 
 #' 
 #' @param configFile Character vector describing path to configuration file in YAML format. 
