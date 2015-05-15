@@ -1,5 +1,5 @@
 # nwisnfie2
-
+[![Travis-CI Build Status](https://travis-ci.org/Kevin-M-Smith/nwisnfie2.svg?branch=master)](https://travis-ci.org/Kevin-M-Smith/nwisnfie2)
 ```
    ___       __  ___       __        __   ___                                        
   |__   /\  |__)  |  |__| /  ` |  | |__) |__                                         
